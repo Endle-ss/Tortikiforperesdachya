@@ -11,10 +11,10 @@ namespace Tortiki
         private decimal lastsold = 0;
         private string userchoice = "";
         private decimal[][] priiice = {
-        new decimal[] { 350, 450, 200, 700 },
-        new decimal[] { 100, 200, 300, 400 },
+        new decimal[] { 500, 600, 300, 1000 },
+        new decimal[] { 100, 200, 300, 500 },
         new decimal[] { 150, 150, 300, 500 },
-        new decimal[] { 200, 300, 400, 500 }
+        new decimal[] { 200, 400, 550, 900 }
     };
         private string[][] cakes = {
         new string[] { "Круг - 500 рублей", "Квадрат - 600 рублей", "Овал - 300 рублей", "Невероятная звезда - 1000 рублей" },
